@@ -1,5 +1,3 @@
-# Given a text file, write a program to create another text file deleting the words "a", "the", "an" and replacing each one of them with a blank space.
-
 with open("Q8.txt", "r") as file:
     content = file.read()
 
