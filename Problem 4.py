@@ -1,5 +1,3 @@
-# Create a specific subdirectory and copy one file from another subdirectory to this newly created subdirectory
-
 import os
 
 current_path = os.getcwd()
