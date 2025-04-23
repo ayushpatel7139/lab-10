@@ -1,9 +1,3 @@
-"""
-If an Employee object contains following details:
-empcode, empname, Date of Joining, Salary
-Write a program to serialize and deserialize this data.
-"""
-
 import pickle
 
 
