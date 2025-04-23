@@ -1,5 +1,3 @@
-# Write a program to create a csv file that we can directly open in MS-Excel
-
 import csv
 
 with open("Q1.csv", "wb") as f:
